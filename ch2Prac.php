@@ -6,6 +6,8 @@
 	<body>
 		<?php 
 
+			#CHANGED BY B2
+
 			echo "Hello"; 
 		
 			###############

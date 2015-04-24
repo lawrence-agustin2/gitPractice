@@ -5,9 +5,8 @@
 
 	<body>
 		<?php 
-
-			#CHANGED BY B2
-
+			#Changed by B3
+			#latest update made by B3
 			echo "Hello"; 
 		
 			###############
